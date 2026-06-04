@@ -1,0 +1,1022 @@
+Rally,Rotation,Stage,Action Type,Action,win_lose
+1,1,serve,in_rally,1-Serve,L
+1,1,serve,earned,Spike,L
+2,1,receive,errors,Whose Ball?,L
+3,1,receive,in_rally,3-Pass,L
+3,1,receive,errors,Spike,L
+4,1,receive,in_rally,3-Pass,L
+4,1,receive,earned,Spike,L
+5,2,serve,errors,Serve,L
+6,2,receive,in_rally,2-Pass,L
+7,2,receive,in_rally,Hit Still In Play,L
+8,2,receive,in_rally,3-FB Pass,L
+8,2,receive,earned,Spike,L
+9,3,serve,earned,Ace,L
+10,3,serve,in_rally,3-Serve,L
+10,3,serve,earned,Tip,L
+11,3,receive,in_rally,3-Pass,L
+11,3,receive,earned,Block,L
+12,3,receive,in_rally,1-Pass,L
+12,3,receive,errors,Spike,L
+13,3,receive,in_rally,3-Pass,L
+14,3,receive,in_rally,Hit Still In Play,L
+15,3,receive,in_rally,Dig,L
+16,3,receive,in_rally,Hit Still In Play,L
+16,3,receive,errors,Dig,L
+17,3,receive,errors,Receive,L
+18,3,receive,in_rally,1-Pass,L
+19,3,receive,in_rally,Hit Still In Play,L
+19,3,receive,errors,Spike,L
+20,4,serve,in_rally,2-Serve,L
+21,4,serve,in_rally,Dig,L
+21,4,serve,errors,Spike,L
+22,4,receive,errors,Serve,L
+23,5,serve,in_rally,3-Serve,L
+23,5,serve,errors,Whose Ball?,L
+24,5,receive,errors,Serve,L
+25,6,serve,earned,Ace,L
+26,6,serve,errors,Serve,L
+27,6,receive,in_rally,2-Pass,L
+27,6,receive,faults,Net,L
+28,6,receive,errors,Serve,L
+29,1,serve,in_rally,2-Serve,L
+29,1,serve,faults,Net,L
+30,1,serve,in_rally,2-Serve,L
+30,1,serve,earned,Spike,L
+31,1,serve,in_rally,1-Serve,L
+31,1,serve,earned,Block,L
+32,1,serve,earned,Ace,L
+33,1,serve,in_rally,3-Serve,L
+34,1,serve,in_rally,3-FB Pass,L
+34,1,serve,errors,Spike,L
+35,1,receive,in_rally,3-Pass,L
+35,1,receive,earned,Tip,L
+36,2,serve,earned,Ace,L
+37,2,serve,errors,Serve,L
+38,2,receive,errors,Receive,L
+39,2,receive,errors,Receive,L
+40,2,receive,in_rally,2-Pass,L
+41,2,receive,in_rally,Hit Still In Play,L
+42,2,receive,in_rally,Dig,L
+42,2,receive,earned,Spike,L
+43,3,serve,in_rally,2-Serve,L
+44,3,serve,in_rally,Dig,L
+44,3,serve,errors,Spike,L
+45,3,receive,in_rally,1-Pass,L
+46,3,receive,in_rally,Hit Still In Play,L
+47,3,receive,in_rally,Hit Still In Play,L
+47,3,receive,earned,Spike,L
+48,3,receive,in_rally,1-Pass,L
+49,3,receive,in_rally,Hit Still In Play,L
+49,3,receive,errors,Spike,L
+50,4,serve,in_rally,2-Serve,L
+51,4,serve,in_rally,Dig,L
+51,4,serve,earned,Spike,L
+52,4,serve,in_rally,1-Serve,L
+52,4,serve,earned,Spike,L
+53,4,serve,errors,Serve,L
+54,4,receive,errors,Receive,L
+55,4,receive,in_rally,1-Pass,L
+56,4,receive,in_rally,Hit Still In Play,L
+56,4,receive,errors,3rd Ball Return,L
+57,5,serve,in_rally,2-Serve,L
+58,5,serve,in_rally,Dig,L
+59,5,serve,in_rally,Hit Still In Play,L
+60,5,serve,in_rally,Dig,L
+60,5,serve,earned,Spike,L
+61,5,serve,in_rally,2-Serve,L
+62,5,serve,in_rally,Dig,L
+63,5,serve,in_rally,Hit Still In Play,L
+64,5,serve,in_rally,Dig,L
+64,5,serve,errors,Spike,L
+65,5,receive,in_rally,1-Pass,L
+65,5,receive,errors,Set,L
+,,,,,L
+66,5,receive,in_rally,3-Pass,L
+66,5,receive,errors,Spike,L
+67,5,receive,errors,Serve,L
+68,6,serve,in_rally,1-Serve,L
+68,6,serve,earned,Block,L
+69,6,serve,in_rally,2-Serve,L
+70,6,serve,in_rally,Dig,L
+70,6,serve,errors,Tip,L
+1,6,receive,in_rally,3-Pass,L
+1,6,receive,earned,Spike,L
+2,1,serve,in_rally,2-Serve,L
+2,1,serve,faults,Net,L
+3,1,receive,errors,Receive,L
+4,1,receive,in_rally,1-Pass,L
+4,1,receive,errors,Dig,L
+5,1,receive,errors,Receive,L
+6,1,receive,errors,Receive,L
+7,1,receive,errors,Serve,L
+8,2,serve,in_rally,3-Serve,L
+9,2,serve,in_rally,1-FB Pass,L
+9,2,serve,errors,Spike,L
+10,2,receive,in_rally,3-Pass,L
+11,2,receive,in_rally,Hit Still In Play,L
+11,2,receive,errors,Set,L
+12,3,serve,in_rally,3-Serve,L
+12,3,serve,earned,Spike,L
+13,3,receive,in_rally,1-Pass,L
+13,3,receive,errors,Spike,L
+14,3,receive,errors,Serve,L
+15,4,serve,in_rally,3-Serve,L
+16,4,serve,in_rally,Dig,L
+17,4,serve,in_rally,Hit Still In Play,L
+17,4,serve,errors,3rd Ball Return,L
+18,4,receive,in_rally,3-Pass,L
+19,4,receive,in_rally,Hit Still In Play,L
+20,4,receive,in_rally,Dig,L
+20,4,receive,errors,3rd Ball Return,L
+21,4,receive,in_rally,3-Pass,L
+21,4,receive,errors,Spike,L
+22,4,receive,in_rally,2-Pass,L
+23,4,receive,in_rally,Hit Still In Play,L
+23,4,receive,errors,3rd Ball Return,L
+24,5,serve,in_rally,3-Serve,L
+24,5,serve,errors,Dig,L
+25,5,receive,errors,Serve,L
+26,6,serve,errors,Serve,L
+27,6,receive,in_rally,3-Pass,L
+27,6,receive,earned,Spike,L
+28,1,serve,in_rally,2-Serve,L
+28,1,serve,earned,Block,L
+29,1,serve,in_rally,3-Serve,L
+29,1,serve,errors,3rd Ball Return,L
+30,1,serve,errors,Serve,L
+31,1,receive,in_rally,2-Pass,L
+31,1,receive,errors,Spike,L
+32,1,receive,in_rally,2-Pass,L
+33,1,receive,in_rally,Hit Still In Play,L
+34,1,receive,in_rally,1-FB Pass,L
+34,1,receive,earned,Spike,L
+35,2,serve,in_rally,1-Serve,L
+35,2,serve,earned,Spike,L
+36,2,serve,in_rally,3-Serve,L
+37,2,serve,in_rally,1-FB Pass,L
+38,2,serve,in_rally,Hit Still In Play,L
+38,2,serve,errors,Spike,L
+39,2,serve,in_rally,3-Serve,L
+39,2,serve,faults,Ball Handling,L
+40,2,serve,in_rally,3-Serve,L
+41,2,serve,in_rally,3-FB Pass,L
+41,2,serve,earned,Spike,L
+,,,,,L
+42,2,serve,in_rally,2-Serve,L
+43,2,serve,in_rally,Dig,L
+43,2,serve,earned,Spike,L
+44,2,serve,in_rally,1-Serve,L
+45,2,serve,in_rally,Dig,L
+46,2,serve,in_rally,Hit Still In Play,L
+46,2,serve,errors,Dig,L
+47,2,receive,in_rally,2-Pass,L
+47,2,receive,earned,Tip,L
+48,3,serve,errors,Serve,L
+49,3,receive,in_rally,Over Pass in Play,L
+49,3,receive,faults,Net,L
+50,4,serve,errors,Serve,L
+51,4,receive,errors,Serve,L
+52,5,serve,in_rally,2-Serve,L
+53,5,serve,in_rally,Dig,L
+54,5,serve,in_rally,Hit Still In Play,L
+55,5,serve,in_rally,2-FB Pass,L
+55,5,serve,errors,Spike,L
+56,5,receive,in_rally,1-Pass,L
+57,5,receive,in_rally,Hit Still In Play,L
+57,5,receive,errors,Dig,L
+58,5,receive,in_rally,2-Pass,L
+58,5,receive,earned,Spike,L
+59,6,serve,in_rally,2-Serve,L
+59,6,serve,earned,Spike,L
+60,6,receive,in_rally,1-Pass,L
+61,6,receive,in_rally,1-FB Pass,L
+61,6,receive,earned,Spike,L
+62,1,serve,in_rally,2-Serve,L
+62,1,serve,faults,Under,L
+63,1,serve,errors,Serve,L
+64,1,receive,in_rally,Over Pass in Play,L
+65,1,receive,in_rally,Hit Still In Play,L
+66,1,receive,in_rally,1-FB Pass,L
+67,1,receive,in_rally,Hit Still In Play,L
+68,1,receive,in_rally,Dig,L
+68,1,receive,earned,Spike,L
+69,2,serve,in_rally,3-Serve,L
+70,2,serve,in_rally,Dig,L
+70,2,serve,faults,Net,L
+,,,,,L
+71,2,receive,in_rally,1-Pass,L
+72,2,receive,in_rally,Hit Still In Play,L
+73,2,receive,in_rally,3-FB Pass,L
+74,2,receive,in_rally,Dig,L
+74,2,receive,errors,Spike,L
+75,2,receive,in_rally,3-Pass,L
+75,2,receive,earned,Spike,L
+,,,,,L
+76,3,serve,in_rally,1-Serve,L
+76,3,serve,errors,Dig,L
+1,5,serve,in_rally,1-Serve,W
+1,5,serve,earned,Spike,W
+2,5,receive,in_rally,2-Pass,W
+2,5,receive,earned,Spike,W
+3,6,serve,in_rally,2-Serve,W
+3,6,serve,errors,Dig,W
+4,6,receive,in_rally,2-Pass,W
+5,6,receive,in_rally,Hit Still In Play,W
+6,6,receive,in_rally,Dig,W
+7,6,receive,in_rally,3-FB Pass,W
+7,6,receive,earned,Spike,W
+8,1,serve,earned,Ace,W
+9,1,serve,in_rally,2-Serve,W
+9,1,serve,earned,Spike,W
+10,1,serve,in_rally,2-Serve,W
+10,1,serve,errors,Spike,W
+11,1,serve,in_rally,3-Serve,W
+11,1,serve,earned,Spike,W
+12,1,receive,in_rally,3-Pass,W
+12,1,receive,errors,Set,W
+13,1,receive,faults,Out of Rotation,W
+14,1,receive,errors,Serve,W
+15,2,serve,in_rally,3-Serve,W
+15,2,serve,faults,Ball Handling,W
+16,2,serve,in_rally,3-Serve,W
+16,2,serve,faults,Back Row Attack,W
+17,2,serve,in_rally,1-Serve,W
+17,2,serve,errors,Tip,W
+18,2,serve,in_rally,2-Serve,W
+18,2,serve,earned,Spike,W
+19,2,receive,in_rally,2-Pass,W
+19,2,receive,errors,Spike,W
+20,2,receive,in_rally,1-Pass,W
+20,2,receive,errors,Spike,W
+21,2,receive,errors,Receive,W
+22,2,receive,errors,Receive,W
+23,2,receive,in_rally,1-Pass,W
+23,2,receive,errors,Spike,W
+24,2,receive,errors,Serve,W
+25,3,serve,in_rally,1-Serve,W
+25,3,serve,earned,Spike,W
+26,3,receive,in_rally,3-Pass,W
+26,3,receive,earned,Spike,W
+27,4,serve,in_rally,1-Serve,W
+27,4,serve,errors,Dig,W
+28,4,receive,in_rally,2-Pass,W
+29,4,receive,in_rally,Hit Still In Play,W
+29,4,receive,errors,Spike,W
+30,5,serve,in_rally,3-Serve,W
+30,5,serve,errors,Spike,W
+31,5,serve,in_rally,2-Serve,W
+31,5,serve,earned,Block,W
+32,5,serve,in_rally,3-Serve,W
+33,5,serve,in_rally,Dig,W
+33,5,serve,errors,Spike,W
+34,5,receive,errors,Serve,W
+35,6,serve,in_rally,3-Serve,W
+35,6,serve,earned,Spike,W
+36,6,receive,errors,Serve,W
+37,1,serve,earned,Ace,W
+38,1,serve,in_rally,3-Serve,W
+39,1,serve,in_rally,Dig,W
+39,1,serve,errors,Spike,W
+40,1,receive,in_rally,1-Pass,W
+40,1,receive,earned,Spike,W
+41,2,serve,in_rally,3-Serve,W
+41,2,serve,errors,Spike,W
+42,2,serve,earned,Ace,W
+43,2,serve,in_rally,2-Serve,W
+44,2,serve,in_rally,Dig,W
+44,2,serve,errors,Spike,W
+,,,,,W
+45,2,serve,in_rally,3-Serve,W
+46,2,serve,in_rally,Dig,W
+47,2,serve,in_rally,Hit Still In Play,W
+48,2,serve,in_rally,1-FB Pass,W
+49,2,serve,in_rally,Hit Still In Play,W
+50,2,serve,in_rally,Dig,W
+50,2,serve,earned,Tip,W
+51,2,serve,in_rally,3-Serve,W
+51,2,serve,errors,Set,W
+52,2,serve,in_rally,2-Serve,W
+52,2,serve,earned,Block,W
+53,2,serve,errors,Serve,W
+54,2,receive,errors,Serve,W
+1,5,receive,in_rally,1-Pass,W
+1,5,receive,earned,Spike,W
+2,6,serve,in_rally,1-Serve,W
+3,6,serve,in_rally,Dig,W
+4,6,serve,in_rally,Hit Still In Play,W
+4,6,serve,earned,Spike,W
+5,6,receive,in_rally,2-Pass,W
+6,6,receive,in_rally,Hit Still In Play,W
+6,6,receive,earned,Spike,W
+7,6,receive,in_rally,2-Pass,W
+7,6,receive,earned,Spike,W
+8,1,serve,in_rally,1-Serve,W
+8,1,serve,errors,Set,W
+9,1,serve,in_rally,1-Serve,W
+10,1,serve,in_rally,Dig,W
+10,1,serve,earned,Spike,W
+11,1,receive,errors,Serve,W
+12,2,serve,errors,Serve,W
+13,2,receive,errors,Receive,W
+14,2,receive,in_rally,1-Pass,W
+14,2,receive,earned,Spike,W
+15,2,receive,in_rally,1-Pass,W
+15,2,receive,errors,Spike,W
+16,3,serve,in_rally,3-Serve,W
+16,3,serve,errors,Spike,W
+17,3,serve,in_rally,1-Serve,W
+17,3,serve,faults,Ball Handling,W
+18,3,serve,earned,Ace,W
+19,3,serve,in_rally,2-Serve,W
+19,3,serve,errors,Spike,W
+20,3,serve,in_rally,2-Serve,W
+21,3,serve,in_rally,Dig,W
+21,3,serve,earned,Spike,W
+,,,,,W
+21,3,serve,errors,Serve,W
+22,3,receive,in_rally,1-Pass,W
+22,3,receive,errors,Spike,W
+23,3,receive,in_rally,1-Pass,W
+23,3,receive,earned,Spike,W
+24,4,serve,in_rally,3-Serve,W
+24,4,serve,earned,Dump,W
+25,4,receive,in_rally,3-Pass,W
+25,4,receive,errors,Spike,W
+26,4,receive,in_rally,2-Pass,W
+26,4,receive,earned,Spike,W
+27,5,serve,in_rally,2-Serve,W
+28,5,serve,in_rally,Dig,W
+29,5,serve,in_rally,Hit Still In Play,W
+30,5,serve,in_rally,Dig,W
+30,5,serve,errors,Spike,W
+31,5,receive,in_rally,1-Pass,W
+32,5,receive,in_rally,Hit Still In Play,W
+33,5,receive,in_rally,Dig,W
+34,5,receive,in_rally,Hit Still In Play,W
+34,5,receive,earned,Spike,W
+35,5,receive,in_rally,3-Pass,W
+35,5,receive,faults,Under,W
+36,5,receive,errors,Receive,W
+37,5,receive,errors,Receive,W
+,,,,,W
+38,5,receive,in_rally,3-Pass,W
+38,5,receive,earned,Spike,W
+39,6,serve,in_rally,2-Serve,W
+39,6,serve,earned,Block,W
+40,6,serve,in_rally,1-Serve,W
+41,6,serve,in_rally,Dig,W
+41,6,serve,earned,Spike,W
+42,6,serve,earned,Ace,W
+43,6,serve,in_rally,2-Serve,W
+43,6,serve,earned,Tip,W
+44,6,receive,in_rally,1-Pass,W
+44,6,receive,errors,Dump,W
+45,6,receive,faults,Out of Rotation,W
+46,6,receive,errors,Serve,W
+47,1,serve,in_rally,3-Serve,W
+47,1,serve,errors,Spike,W
+48,1,serve,in_rally,2-Serve,W
+48,1,serve,earned,Spike,W
+49,1,receive,errors,Serve,W
+50,2,serve,in_rally,2-Serve,W
+51,2,serve,in_rally,Dig,W
+51,2,serve,errors,Dig,W
+52,2,receive,in_rally,1-Pass,W
+52,2,receive,earned,Block,W
+53,3,serve,in_rally,2-Serve,W
+53,3,serve,earned,Spike,W
+54,3,receive,in_rally,3-Pass,W
+55,3,receive,in_rally,Hit Still In Play,W
+55,3,receive,errors,3rd Ball Return,W
+56,4,serve,in_rally,1-Serve,W
+56,4,serve,errors,Set,W
+57,4,serve,errors,Serve,W
+58,4,receive,errors,Serve,W
+59,5,serve,in_rally,1-Serve,W
+59,5,serve,errors,Spike,W
+,,,,,W
+59,5,serve,errors,Serve,W
+60,5,receive,in_rally,1-Pass,W
+60,5,receive,earned,Spike,W
+1,5,receive,errors,Serve,W
+2,6,serve,in_rally,1-Serve,W
+2,6,serve,earned,Spike,W
+3,6,receive,in_rally,2-Pass,W
+4,6,receive,in_rally,Hit Still In Play,W
+4,6,receive,errors,Spike,W
+5,1,serve,earned,Ace,W
+6,1,serve,in_rally,3-Serve,W
+6,1,serve,errors,3rd Ball Return,W
+7,1,serve,in_rally,2-Serve,W
+7,1,serve,earned,Block,W
+8,1,serve,in_rally,3-Serve,W
+8,1,serve,errors,3rd Ball Return,W
+,,,,,W
+9,1,serve,in_rally,3-Serve,W
+9,1,serve,earned,Tip,W
+10,1,receive,errors,Serve,W
+11,2,serve,in_rally,2-Serve,W
+11,2,serve,earned,Spike,W
+12,2,receive,in_rally,Over Pass in Play,W
+12,2,receive,earned,Block,W
+13,3,serve,errors,Serve,W
+14,3,receive,in_rally,2-Pass,W
+14,3,receive,earned,Spike,W
+15,4,serve,in_rally,2-Serve,W
+16,4,serve,in_rally,Dig,W
+16,4,serve,earned,Spike,W
+17,4,receive,in_rally,2-Pass,W
+17,4,receive,earned,Spike,W
+18,5,serve,in_rally,2-Serve,W
+19,5,serve,in_rally,Dig,W
+19,5,serve,errors,Free Ball Receive,W
+20,5,serve,in_rally,2-Serve,W
+20,5,serve,earned,Tip,W
+21,5,receive,in_rally,1-Pass,W
+21,5,receive,faults,Ball Handling,W
+22,5,receive,in_rally,1-Pass,W
+23,5,receive,in_rally,Hit Still In Play,W
+23,5,receive,errors,Set,W
+24,6,serve,in_rally,1-Serve,W
+24,6,serve,earned,Spike,W
+25,6,receive,in_rally,1-Pass,W
+25,6,receive,errors,Spike,W
+26,6,receive,in_rally,3-Pass,W
+26,6,receive,earned,Spike,W
+27,1,serve,in_rally,2-Serve,W
+27,1,serve,earned,Spike,W
+28,1,receive,in_rally,2-Pass,W
+28,1,receive,earned,Spike,W
+29,2,serve,in_rally,3-Serve,W
+29,2,serve,earned,Spike,W
+30,2,serve,in_rally,3-Serve,W
+30,2,serve,faults,Under,W
+31,2,receive,in_rally,1-Pass,W
+31,2,receive,earned,Spike,W
+32,3,serve,errors,Serve,W
+33,3,receive,in_rally,2-Pass,W
+33,3,receive,earned,Spike,W
+34,4,serve,in_rally,1-Serve,W
+34,4,serve,faults,Net,W
+35,4,serve,in_rally,2-Serve,W
+36,4,serve,in_rally,Dig,W
+36,4,serve,errors,3rd Ball Return,W
+37,4,serve,errors,Serve,W
+38,4,receive,in_rally,1-Pass,W
+38,4,receive,errors,Spike,W
+39,4,receive,in_rally,2-Pass,W
+39,4,receive,errors,Spike,W
+40,4,receive,in_rally,1-Pass,W
+41,4,receive,in_rally,Dig,W
+41,4,receive,earned,Spike,W
+,,,,,W
+42,4,receive,in_rally,2-Pass,W
+42,4,receive,earned,Spike,W
+43,5,serve,in_rally,3-Serve,W
+43,5,serve,earned,Spike,W
+44,5,receive,in_rally,1-Pass,W
+44,5,receive,earned,Spike,W
+45,6,serve,in_rally,2-Serve,W
+45,6,serve,errors,Tip,W
+46,6,serve,in_rally,2-Serve,W
+46,6,serve,errors,Dig,W
+47,6,receive,errors,Receive,W
+48,6,receive,errors,Receive,W
+49,6,receive,errors,Serve,W
+50,1,serve,in_rally,1-Serve,W
+50,1,serve,earned,Spike,W
+51,1,receive,in_rally,1-Pass,W
+51,1,receive,errors,Spike,W
+52,2,serve,in_rally,2-Serve,W
+53,2,serve,in_rally,Over Pass in Play,W
+53,2,serve,errors,Spike,W
+1,5,serve,in_rally,2-Serve,W
+1,5,serve,earned,Block,W
+2,5,serve,in_rally,3-Serve,W
+2,5,serve,earned,Spike,W
+3,5,receive,in_rally,2-Pass,W
+4,5,receive,in_rally,Hit Still In Play,W
+4,5,receive,errors,3rd Ball Return,W
+5,6,serve,in_rally,2-Serve,W
+5,6,serve,errors,Dig,W
+6,6,receive,in_rally,2-Pass,W
+6,6,receive,earned,Tip,W
+7,1,serve,in_rally,2-Serve,W
+8,1,serve,in_rally,Dig,W
+9,1,serve,in_rally,Hit Still In Play,W
+9,1,serve,earned,Block,W
+10,1,serve,errors,Serve,W
+11,1,receive,in_rally,1-Pass,W
+11,1,receive,earned,Spike,W
+12,2,serve,in_rally,1-Serve,W
+12,2,serve,earned,Spike,W
+13,2,receive,in_rally,3-Pass,W
+13,2,receive,earned,Spike,W
+14,3,serve,errors,Serve,W
+15,3,receive,in_rally,3-Pass,W
+15,3,receive,earned,Spike,W
+16,4,serve,in_rally,1-Serve,W
+16,4,serve,faults,Net,W
+17,4,receive,in_rally,3-Pass,W
+18,4,receive,in_rally,Hit Still In Play,W
+19,4,receive,in_rally,Dig,W
+20,4,receive,in_rally,Dig,W
+21,4,receive,in_rally,Hit Still In Play,W
+21,4,receive,earned,Spike,W
+22,4,receive,in_rally,2-Pass,W
+23,4,receive,in_rally,Hit Still In Play,W
+23,4,receive,faults,Back Row Attack,W
+24,5,serve,errors,Serve,W
+25,5,receive,errors,Receive,W
+26,5,receive,in_rally,2-Pass,W
+26,5,receive,earned,Spike,W
+27,6,serve,in_rally,2-Serve,W
+27,6,serve,errors,Dig,W
+28,6,receive,in_rally,1-Pass,W
+28,6,receive,earned,Spike,W
+29,6,receive,errors,Serve,W
+30,1,serve,in_rally,2-Serve,W
+30,1,serve,earned,Spike,W
+31,1,receive,in_rally,1-Pass,W
+31,1,receive,earned,Spike,W
+32,1,receive,in_rally,3-Pass,W
+32,1,receive,earned,Spike,W
+33,2,serve,in_rally,2-Serve,W
+33,2,serve,errors,Spike,W
+34,2,serve,in_rally,1-Serve,W
+34,2,serve,errors,Spike,W
+35,2,serve,in_rally,3-Serve,W
+36,2,serve,in_rally,2-FB Pass,W
+36,2,serve,errors,Dig,W
+37,2,receive,in_rally,1-Pass,W
+38,2,receive,in_rally,Hit Still In Play,W
+39,2,receive,in_rally,Dig,W
+39,2,receive,errors,3rd Ball Return,W
+40,2,receive,in_rally,1-Pass,W
+40,2,receive,errors,Spike,W
+,,,,,W
+41,2,receive,in_rally,2-Pass,W
+41,2,receive,earned,Tip,W
+42,3,serve,in_rally,3-Serve,W
+42,3,serve,earned,Spike,W
+43,3,receive,in_rally,2-Pass,W
+44,3,receive,in_rally,Hit Still In Play,W
+45,3,receive,in_rally,Dig,W
+45,3,receive,earned,Spike,W
+46,4,serve,errors,Serve,W
+47,4,receive,in_rally,3-Pass,W
+47,4,receive,earned,Spike,W
+48,5,serve,in_rally,2-Serve,W
+48,5,serve,earned,Spike,W
+49,5,receive,in_rally,3-Pass,W
+50,5,receive,in_rally,Hit Still In Play,W
+50,5,receive,faults,Under,W
+51,6,serve,in_rally,2-Serve,W
+52,6,serve,in_rally,Dig,W
+53,6,serve,in_rally,Hit Still In Play,W
+53,6,serve,earned,Spike,W
+54,6,receive,in_rally,3-Pass,W
+54,6,receive,earned,Spike,W
+55,1,serve,in_rally,3-Serve,W
+55,1,serve,errors,3rd Ball Return,W
+56,1,serve,in_rally,1-Serve,W
+57,1,serve,in_rally,Dig,W
+58,1,serve,in_rally,Hit Still In Play,W
+59,1,serve,in_rally,Dig,W
+59,1,serve,earned,Spike,W
+60,1,serve,in_rally,1-Serve,W
+61,1,serve,in_rally,2-FB Pass,W
+61,1,serve,errors,Spike,W
+62,1,receive,errors,Serve,W
+63,2,serve,earned,Ace,W
+64,2,serve,in_rally,3-Serve,W
+65,2,serve,in_rally,2-FB Pass,W
+65,2,serve,earned,Spike,W
+,,,,,W
+65,2,serve,earned,Ace,W
+66,2,serve,in_rally,3-Serve,W
+66,2,serve,errors,Dig,W
+67,2,receive,in_rally,1-Pass,W
+67,2,receive,earned,Tip,W
+,,,,,W
+67,2,receive,errors,Receive,W
+68,2,receive,in_rally,1-Pass,W
+68,2,receive,earned,Spike,W
+69,3,serve,errors,Serve,W
+70,3,receive,in_rally,3-Pass,W
+70,3,receive,errors,3rd Ball Return,W
+71,4,serve,in_rally,2-Serve,W
+72,4,serve,in_rally,Dig,W
+73,4,serve,in_rally,Hit Still In Play,W
+74,4,serve,in_rally,2-FB Pass,W
+74,4,serve,earned,Spike,W
+1,1,serve,in_rally,3-Serve,W
+2,1,serve,in_rally,2-FB Pass,W
+2,1,serve,earned,Spike,W
+3,1,serve,in_rally,3-Serve,W
+3,1,serve,earned,Block,W
+4,1,serve,earned,Ace,W
+5,1,serve,in_rally,3-Serve,W
+6,1,serve,in_rally,Dig,W
+6,1,serve,earned,Spike,W
+7,1,serve,in_rally,2-Serve,W
+8,1,serve,in_rally,Dig,W
+8,1,serve,earned,Spike,W
+9,1,receive,in_rally,2-Pass,W
+9,1,receive,earned,Spike,W
+10,2,serve,in_rally,1-Serve,W
+11,2,serve,in_rally,Dig,W
+11,2,serve,faults,Net,W
+12,2,receive,in_rally,1-Pass,W
+12,2,receive,errors,Spike,W
+13,2,receive,in_rally,3-Pass,W
+13,2,receive,errors,Spike,W
+14,2,receive,in_rally,3-Pass,W
+14,2,receive,earned,Spike,W
+15,3,serve,in_rally,2-Serve,W
+16,3,serve,in_rally,Dig,W
+16,3,serve,earned,Tip,W
+17,3,serve,in_rally,3-Serve,W
+18,3,serve,in_rally,3-FB Pass,W
+18,3,serve,errors,Spike,W
+19,3,receive,errors,Receive,W
+20,3,receive,in_rally,3-Pass,W
+20,3,receive,errors,Tip,W
+21,3,receive,in_rally,3-Pass,W
+21,3,receive,errors,Spike,W
+22,3,receive,in_rally,2-Pass,W
+23,3,receive,in_rally,Hit Still In Play,W
+24,3,receive,in_rally,Dig,W
+24,3,receive,faults,Net,W
+25,3,receive,in_rally,3-Pass,W
+26,3,receive,in_rally,Hit Still In Play,W
+26,3,receive,earned,Spike,W
+27,4,serve,in_rally,2-Serve,W
+28,4,serve,in_rally,Dig,W
+28,4,serve,errors,Spike,W
+29,4,receive,errors,Serve,W
+30,5,serve,in_rally,1-Serve,W
+30,5,serve,faults,Net,W
+31,5,serve,in_rally,1-Serve,W
+31,5,serve,errors,Dig,W
+32,5,receive,in_rally,3-Pass,W
+33,5,receive,in_rally,Hit Still In Play,W
+34,5,receive,in_rally,3-FB Pass,W
+35,5,receive,in_rally,Dig,W
+35,5,receive,earned,Tip,W
+36,5,receive,in_rally,1-Pass,W
+36,5,receive,earned,Spike,W
+37,6,serve,earned,Ace,W
+38,6,serve,in_rally,3-Serve,W
+39,6,serve,in_rally,3-FB Pass,W
+40,6,serve,in_rally,Hit Still In Play,W
+40,6,serve,earned,Spike,W
+41,6,serve,errors,Serve,W
+42,6,receive,in_rally,3-Pass,W
+42,6,receive,earned,Spike,W
+43,1,serve,in_rally,2-Serve,W
+43,1,serve,earned,Tip,W
+44,1,receive,in_rally,2-Pass,W
+45,1,receive,in_rally,Dig,W
+45,1,receive,errors,Dump,W
+46,2,serve,in_rally,2-Serve,W
+46,2,serve,errors,Spike,W
+47,2,serve,in_rally,1-Serve,W
+48,2,serve,in_rally,Over Pass in Play,W
+48,2,serve,earned,Spike,W
+49,2,receive,in_rally,2-Pass,W
+50,2,receive,in_rally,Hit Still In Play,W
+50,2,receive,earned,Block,W
+51,3,serve,in_rally,2-Serve,W
+52,3,serve,in_rally,Dig,W
+53,3,serve,in_rally,Hit Still In Play,W
+53,3,serve,errors,Spike,W
+54,3,serve,in_rally,3-Serve,W
+55,3,serve,in_rally,Over Pass in Play,W
+56,3,serve,in_rally,Over Pass in Play,W
+56,3,serve,earned,Spike,W
+57,3,receive,in_rally,1-Pass,W
+57,3,receive,earned,Spike,W
+58,4,serve,in_rally,2-Serve,W
+59,4,serve,in_rally,Dig,W
+60,4,serve,in_rally,Hit Still In Play,W
+60,4,serve,errors,Spike,W
+61,4,serve,in_rally,2-Serve,W
+61,4,serve,errors,Spike,W
+62,4,serve,in_rally,3-Serve,W
+62,4,serve,errors,Whose Ball?,W
+63,4,receive,in_rally,1-Pass,W
+63,4,receive,errors,Spike,W
+64,4,receive,in_rally,3-Pass,W
+64,4,receive,earned,Spike,W
+65,5,serve,in_rally,2-Serve,W
+66,5,serve,in_rally,Over Pass in Play,W
+66,5,serve,earned,Spike,W
+67,5,receive,in_rally,3-Pass,W
+67,5,receive,earned,Spike,W
+68,6,serve,in_rally,2-Serve,W
+68,6,serve,earned,Spike,W
+69,6,receive,errors,Serve,W
+70,1,serve,earned,Ace,W
+1,6,receive,in_rally,3-Pass,W
+1,6,receive,earned,Spike,W
+2,1,serve,in_rally,2-Serve,W
+2,1,serve,errors,Spike,W
+3,1,serve,earned,Ace,W
+4,1,serve,in_rally,2-Serve,W
+4,1,serve,errors,Spike,W
+5,1,serve,in_rally,2-Serve,W
+6,1,serve,in_rally,Dig,W
+6,1,serve,earned,Spike,W
+7,1,serve,errors,Serve,W
+8,1,receive,in_rally,2-Pass,W
+8,1,receive,earned,Spike,W
+9,2,serve,in_rally,2-Serve,W
+9,2,serve,errors,Spike,W
+,,,,,W
+10,2,serve,in_rally,3-Serve,W
+11,2,serve,in_rally,Dig,W
+12,2,serve,in_rally,Hit Still In Play,W
+13,2,serve,in_rally,Dig,W
+14,2,serve,in_rally,Hit Still In Play,W
+14,2,serve,errors,Dig,W
+15,2,receive,in_rally,3-Pass,W
+15,2,receive,earned,Spike,W
+16,3,serve,in_rally,2-Serve,W
+17,3,serve,in_rally,2-FB Pass,W
+17,3,serve,earned,Spike,W
+18,3,serve,in_rally,1-Serve,W
+19,3,serve,in_rally,Dig,W
+19,3,serve,errors,Spike,W
+20,3,serve,in_rally,2-Serve,W
+20,3,serve,earned,Spike,W
+21,3,serve,in_rally,2-Serve,W
+21,3,serve,errors,Dig,W
+22,3,receive,in_rally,Over Pass in Play,W
+23,3,receive,in_rally,Dig,W
+23,3,receive,errors,Spike,W
+24,3,receive,in_rally,1-Pass,W
+24,3,receive,earned,Spike,W
+25,4,serve,in_rally,1-Serve,W
+25,4,serve,errors,Spike,W
+26,4,serve,in_rally,2-Serve,W
+27,4,serve,in_rally,Dig,W
+28,4,serve,in_rally,Hit Still In Play,W
+29,4,serve,in_rally,1-FB Pass,W
+30,4,serve,in_rally,Hit Still In Play,W
+30,4,serve,faults,Ball Handling,W
+,,,,,W
+31,4,serve,in_rally,2-Serve,W
+32,4,serve,in_rally,Dig,W
+33,4,serve,in_rally,Dig,W
+33,4,serve,earned,Tip,W
+34,4,serve,errors,Serve,W
+35,4,receive,errors,Receive,W
+36,4,receive,in_rally,1-Pass,W
+36,4,receive,earned,Spike,W
+37,5,serve,in_rally,2-Serve,W
+38,5,serve,in_rally,Dig,W
+38,5,serve,earned,Spike,W
+39,5,serve,errors,Serve,W
+40,5,receive,in_rally,1-Pass,W
+41,5,receive,in_rally,Hit Still In Play,W
+42,5,receive,in_rally,1-FB Pass,W
+42,5,receive,errors,Set,W
+43,5,receive,in_rally,2-Pass,W
+43,5,receive,earned,Spike,W
+44,6,serve,errors,Serve,W
+45,6,receive,in_rally,2-Pass,W
+46,6,receive,in_rally,Hit Still In Play,W
+46,6,receive,earned,Block,W
+47,1,serve,in_rally,3-Serve,W
+48,1,serve,in_rally,2-FB Pass,W
+48,1,serve,errors,3rd Ball Return,W
+49,1,serve,in_rally,2-Serve,W
+49,1,serve,errors,Dig,W
+50,1,receive,in_rally,3-Pass,W
+50,1,receive,earned,Spike,W
+51,2,serve,errors,Serve,W
+52,2,receive,in_rally,3-Pass,W
+52,2,receive,earned,Tip,W
+53,3,serve,in_rally,2-Serve,W
+53,3,serve,earned,Spike,W
+54,3,receive,errors,Receive,W
+55,3,receive,errors,Serve,W
+56,4,serve,in_rally,1-Serve,W
+56,4,serve,errors,Spike,W
+57,4,serve,errors,Serve,W
+58,4,receive,in_rally,3-Pass,W
+58,4,receive,earned,Tip,W
+1,6,receive,errors,Receive,L
+2,6,receive,in_rally,2-Pass,L
+2,6,receive,errors,Spike,L
+3,6,receive,in_rally,1-Pass,L
+3,6,receive,errors,Set,L
+4,1,serve,earned,Ace,L
+5,1,serve,in_rally,3-Serve,L
+6,1,serve,in_rally,2-FB Pass,L
+6,1,serve,earned,Spike,L
+7,1,serve,in_rally,1-Serve,L
+7,1,serve,earned,Spike,L
+8,1,receive,in_rally,1-Pass,L
+8,1,receive,earned,Block,L
+9,2,serve,in_rally,2-Serve,L
+9,2,serve,earned,Block,L
+10,2,serve,in_rally,3-Serve,L
+11,2,serve,in_rally,Dig,L
+11,2,serve,earned,Spike,L
+12,2,serve,earned,Ace,L
+13,2,serve,in_rally,2-Serve,L
+13,2,serve,earned,Spike,L
+14,2,receive,in_rally,Over Pass in Play,L
+15,2,receive,in_rally,Hit Still In Play,L
+15,2,receive,errors,3rd Ball Return,L
+16,3,serve,in_rally,1-Serve,L
+16,3,serve,earned,Spike,L
+17,3,receive,errors,Serve,L
+18,4,serve,errors,Serve,L
+19,4,receive,errors,Receive,L
+20,4,receive,errors,Receive,L
+21,4,receive,in_rally,2-Pass,L
+21,4,receive,errors,Spike,L
+22,4,receive,in_rally,2-Pass,L
+22,4,receive,earned,Spike,L
+23,5,serve,in_rally,3-Serve,L
+23,5,serve,errors,Dig,L
+24,5,receive,in_rally,Over Pass in Play,L
+25,5,receive,in_rally,Dig,L
+25,5,receive,errors,Spike,L
+26,5,receive,in_rally,3-Pass,L
+26,5,receive,errors,Spike,L
+27,5,receive,in_rally,1-Pass,L
+27,5,receive,errors,Spike,L
+28,5,receive,in_rally,1-Pass,L
+28,5,receive,earned,Spike,L
+29,6,serve,in_rally,2-Serve,L
+29,6,serve,earned,Spike,L
+30,6,receive,in_rally,2-Pass,L
+30,6,receive,earned,Spike,L
+31,1,serve,in_rally,3-Serve,L
+31,1,serve,errors,3rd Ball Return,L
+32,1,serve,in_rally,2-Serve,L
+32,1,serve,earned,Dump,L
+33,1,receive,errors,Serve,L
+34,2,serve,in_rally,3-Serve,L
+35,2,serve,in_rally,Dig,L
+36,2,serve,in_rally,Hit Still In Play,L
+36,2,serve,errors,Dig,L
+37,2,receive,errors,Serve,L
+38,3,serve,in_rally,3-Serve,L
+39,3,serve,in_rally,Dig,L
+39,3,serve,earned,Spike,L
+40,3,serve,in_rally,1-Serve,L
+40,3,serve,earned,Spike,L
+41,3,receive,in_rally,2-Pass,L
+42,3,receive,in_rally,Hit Still In Play,L
+42,3,receive,errors,Set,L
+43,4,serve,in_rally,2-Serve,L
+44,4,serve,in_rally,Dig,L
+45,4,serve,in_rally,Dig,L
+45,4,serve,earned,Spike,L
+46,4,serve,in_rally,3-Serve,L
+47,4,serve,in_rally,Dig,L
+48,4,serve,in_rally,Dig,L
+49,4,serve,in_rally,Hit Still In Play,L
+49,4,serve,earned,Spike,L
+50,4,receive,in_rally,1-Pass,L
+50,4,receive,earned,Dump,L
+51,5,serve,in_rally,1-Serve,L
+52,5,serve,in_rally,Dig,L
+52,5,serve,errors,Spike,L
+53,5,receive,in_rally,3-Pass,L
+54,5,receive,in_rally,Hit Still In Play,L
+54,5,receive,errors,Free Ball Receive,L
+55,5,receive,in_rally,3-Pass,L
+55,5,receive,errors,3rd Ball Return,L
+56,6,serve,in_rally,3-Serve,L
+57,6,serve,in_rally,Dig,L
+57,6,serve,errors,Set,L
+58,6,receive,in_rally,2-Pass,L
+58,6,receive,errors,Spike,L
+59,6,receive,in_rally,1-Pass,L
+60,6,receive,in_rally,Dig,L
+60,6,receive,errors,Spike,L
+61,6,receive,errors,Receive,L
+62,6,receive,in_rally,1-Pass,L
+62,6,receive,earned,Spike,L
+63,1,serve,in_rally,2-Serve,L
+63,1,serve,earned,Spike,L
+1,1,serve,in_rally,1-Serve,L
+2,1,serve,in_rally,Dig,L
+2,1,serve,errors,Dig,L
+3,1,receive,in_rally,1-Pass,L
+4,1,receive,in_rally,Hit Still In Play,L
+5,1,receive,in_rally,Hit Still In Play,L
+6,1,receive,in_rally,3-FB Pass,L
+6,1,receive,errors,Spike,L
+7,1,receive,errors,Serve,L
+8,2,serve,in_rally,3-Serve,L
+8,2,serve,errors,Dig,L
+9,2,receive,in_rally,3-Pass,L
+10,2,receive,in_rally,Hit Still In Play,L
+11,2,receive,in_rally,2-FB Pass,L
+12,2,receive,in_rally,Hit Still In Play,L
+13,2,receive,in_rally,Dig,L
+13,2,receive,earned,Block,L
+14,3,serve,in_rally,2-Serve,L
+14,3,serve,earned,Spike,L
+15,3,receive,in_rally,Over Pass in Play,L
+15,3,receive,errors,Free Ball Receive,L
+16,4,serve,in_rally,2-Serve,L
+16,4,serve,errors,Dig,L
+17,4,receive,errors,Receive,L
+18,4,receive,in_rally,2-Pass,L
+18,4,receive,earned,Tip,L
+19,5,serve,in_rally,2-Serve,L
+20,5,serve,in_rally,Dig,L
+20,5,serve,errors,Set,L
+21,5,receive,in_rally,2-Pass,L
+21,5,receive,errors,Spike,L
+22,5,receive,in_rally,1-Pass,L
+23,5,receive,in_rally,Hit Still In Play,L
+23,5,receive,errors,3rd Ball Return,L
+24,6,serve,in_rally,1-Serve,L
+24,6,serve,earned,Block,L
+25,6,serve,in_rally,1-Serve,L
+25,6,serve,errors,Spike,L
+26,6,serve,in_rally,2-Serve,L
+26,6,serve,errors,Spike,L
+27,6,serve,in_rally,2-Serve,L
+28,6,serve,in_rally,Dig,L
+28,6,serve,earned,Spike,L
+,,,,,L
+29,6,serve,in_rally,2-Serve,L
+29,6,serve,earned,Spike,L
+30,6,receive,in_rally,3-Pass,L
+31,6,receive,in_rally,Hit Still In Play,L
+32,6,receive,in_rally,Dig,L
+33,6,receive,in_rally,Dig,L
+33,6,receive,earned,Spike,L
+34,1,serve,errors,Serve,L
+35,1,receive,in_rally,Over Pass in Play,L
+36,1,receive,in_rally,Dig,L
+36,1,receive,errors,Spike,L
+37,1,receive,errors,Serve,L
+38,2,serve,in_rally,2-Serve,L
+38,2,serve,errors,Spike,L
+39,2,serve,in_rally,2-Serve,L
+39,2,serve,errors,Dig,L
+40,2,receive,errors,Receive,L
+41,2,receive,in_rally,3-Pass,L
+41,2,receive,earned,Spike,L
+42,3,serve,in_rally,1-Serve,L
+43,3,serve,in_rally,3-FB Pass,L
+44,3,serve,in_rally,Hit Still In Play,L
+44,3,serve,earned,Spike,L
+45,3,receive,in_rally,1-Pass,L
+45,3,receive,errors,Spike,L
+46,3,receive,in_rally,2-Pass,L
+46,3,receive,errors,Spike,L
+47,3,receive,in_rally,1-Pass,L
+48,3,receive,in_rally,Hit Still In Play,L
+49,3,receive,in_rally,Dig,L
+50,3,receive,in_rally,Hit Still In Play,L
+50,3,receive,errors,Dig,L
+51,3,receive,errors,Serve,L
+52,4,serve,in_rally,2-Serve,L
+52,4,serve,errors,Spike,L
+53,4,serve,in_rally,1-Serve,L
+53,4,serve,errors,Dig,L
+54,4,receive,errors,Serve,L
+55,5,serve,in_rally,3-Serve,L
+56,5,serve,in_rally,Dig,L
+56,5,serve,errors,Spike,L
+57,5,receive,in_rally,3-Pass,L
+58,5,receive,in_rally,Hit Still In Play,L
+58,5,receive,errors,Dig,L
+59,6,serve,in_rally,2-Serve,L
+59,6,serve,earned,Spike,L
+60,6,receive,in_rally,Over Pass in Play,L
+60,6,receive,earned,Spike,L
+61,6,receive,in_rally,1-Pass,L
+62,6,receive,in_rally,Hit Still In Play,L
+62,6,receive,errors,Dig,L
+,,,,,L
+63,6,receive,in_rally,3-Pass,L
+63,6,receive,errors,Spike,L
+64,6,receive,errors,Serve,L
+65,1,serve,in_rally,3-Serve,L
+66,1,serve,in_rally,Dig,L
+66,1,serve,errors,Dig,L
+67,1,receive,in_rally,3-Pass,L
+67,1,receive,earned,Tip,L
+68,2,serve,in_rally,3-Serve,L
+68,2,serve,errors,Spike,L
+69,2,serve,in_rally,3-Serve,L
+69,2,serve,errors,Dig,L
+,,,,,L
+70,2,receive,in_rally,2-Pass,L
+70,2,receive,earned,Spike,L
+71,3,serve,in_rally,2-Serve,L
+71,3,serve,errors,Dig,L
